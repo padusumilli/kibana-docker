@@ -1,1 +1,1 @@
-# kibana-docker
+# kibana-rpm
